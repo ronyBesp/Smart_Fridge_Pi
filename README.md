@@ -21,6 +21,7 @@ The POST request points to the server right now, but the 'url' string in take_pi
 
 The other repositories for the Smart Fridge Project are found:
 
-**Server**: 
+**Server**: https://github.com/ronyBesp/Smart_Fridge_Server
 
-**iOS App**: 
+**iOS App**: https://github.com/ronyBesp/Smart_Fridge_iOS
+
