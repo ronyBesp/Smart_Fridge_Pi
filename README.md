@@ -1,4 +1,4 @@
-# SmartFridge_Pi
+# Smart_Fridge_Pi
 The Pi code of the Smart Fridge Project. 
 
 The Pi will take photos of the fridge/cupboard using the Pi camera module
